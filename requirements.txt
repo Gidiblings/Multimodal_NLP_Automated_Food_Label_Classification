@@ -1,0 +1,31 @@
+# ============================================================================
+# REQUIREMENTS.TXT
+# ============================================================================
+
+# Core Dependencies
+pandas
+numpy
+openpyxl
+python-dateutil
+
+# Image Processing
+opencv-python
+Pillow
+scikit-image
+
+# OCR and Computer Vision
+pytesseract
+paddleocr
+paddlepaddle
+
+# NLP and Machine Learning
+scikit-learn
+transformers
+torch
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
