@@ -22,6 +22,7 @@ paddlepaddle
 scikit-learn
 transformers
 torch
+thefuzz
 
 # Visualization
 matplotlib

@@ -1,0 +1,513 @@
+product_id,NOVA_Predicted,nutrient_profile,High_Sodium_Predicted,High_Sugar_Predicted,High_Fat_Predicted,High_Sat_Fat_Predicted,High_Added_Sugar_Predicted,High_Energy_Predicted
+BC1,Ultra Processed,1,False,False,True,False,False,False
+BC2,Minimally Processed,0,False,False,False,False,False,False
+BC3,Ultra Processed,2,False,True,True,False,False,False
+BC4,Ultra Processed,2,True,True,False,False,False,False
+BC5,Processed,2,True,True,False,False,False,False
+BC6,Processed,2,True,True,False,False,False,False
+BC7,Minimally Processed,0,False,False,False,False,False,False
+BC8,Ultra Processed,1,True,False,False,False,False,False
+BC9,Ultra Processed,1,True,False,False,False,False,False
+BC10,Processed,1,False,True,False,False,False,False
+BC11,Ultra Processed,2,False,True,True,False,False,False
+BC12,Ultra Processed,0,False,False,False,False,False,False
+BC13,Ultra Processed,1,False,True,False,False,False,False
+BC14,Ultra Processed,2,True,True,False,False,False,False
+BC15,Ultra Processed,1,False,True,False,False,False,False
+BC16,Ultra Processed,2,True,True,False,False,False,False
+BC17,Minimally Processed,1,True,False,False,False,False,False
+BC18,Ultra Processed,2,True,True,False,False,False,False
+IF19,Ultra Processed,1,False,False,True,False,False,False
+IF20,Ultra Processed,2,True,False,True,False,False,False
+IF21,Ultra Processed,1,False,True,False,False,False,False
+IF22,Ultra Processed,0,False,False,False,False,False,False
+IF23,Ultra Processed,3,True,True,True,False,False,False
+IF24,Ultra Processed,1,False,False,True,False,False,False
+IF25,Ultra Processed,2,True,False,True,False,False,False
+IF26,Ultra Processed,2,True,False,True,False,False,False
+IF27,Ultra Processed,0,False,False,False,False,False,False
+IF28,Ultra Processed,0,False,False,False,False,False,False
+IF29,Ultra Processed,2,True,False,True,False,False,False
+IF30,Minimally Processed,2,True,False,True,False,False,False
+IF31,Ultra Processed,2,True,False,True,False,False,False
+IF32,Ultra Processed,2,True,False,True,False,False,False
+IF33,Ultra Processed,2,True,False,True,False,False,False
+IF1,Ultra Processed,1,False,False,True,False,False,False
+SD34,Ultra Processed,1,False,True,False,False,False,False
+SD35,Ultra Processed,0,False,False,False,False,False,False
+SD36,Ultra Processed,0,False,False,False,False,False,False
+SD37,Processed,1,False,True,False,False,False,False
+SD38,Ultra Processed,1,False,True,False,False,False,False
+MD302,Ultra Processed,1,False,True,False,False,False,False
+MD303,Ultra Processed,0,False,False,False,False,False,False
+SD39,Ultra Processed,0,False,False,False,False,False,False
+SD40,Ultra Processed,1,False,True,False,False,False,False
+MD304,Processed,1,False,True,False,False,False,False
+MD310,Ultra Processed,1,False,True,False,False,False,False
+MD311,Ultra Processed,0,False,False,False,False,False,False
+MD312,Ultra Processed,2,True,True,False,False,False,False
+SD41,Ultra Processed,0,False,False,False,False,False,False
+SD42,Ultra Processed,1,False,True,False,False,False,False
+SD43,Ultra Processed,0,False,False,False,False,False,False
+SD44,Ultra Processed,0,False,False,False,False,False,False
+SD45,Ultra Processed,1,False,True,False,False,False,False
+SD46,Ultra Processed,0,False,False,False,False,False,False
+SD1,Ultra Processed,1,False,True,False,False,False,False
+SD2,Minimally Processed,0,False,False,False,False,False,False
+SD3,Ultra Processed,0,False,False,False,False,False,False
+SD4,Ultra Processed,1,False,True,False,False,False,False
+SD5,Ultra Processed,0,False,False,False,False,False,False
+SD6,Ultra Processed,1,False,True,False,False,False,False
+SD7,Minimally Processed,1,False,True,False,False,False,False
+SD8,Ultra Processed,0,False,False,False,False,False,False
+SD9,Ultra Processed,1,False,True,False,False,False,False
+SD10,Minimally Processed,1,False,True,False,False,False,False
+SD11,Ultra Processed,1,False,True,False,False,False,False
+SD12,Minimally Processed,1,False,True,False,False,False,False
+SD47,Ultra Processed,0,False,False,False,False,False,False
+SD48,Ultra Processed,1,False,True,False,False,False,False
+SD49,Ultra Processed,0,False,False,False,False,False,False
+SD50,Ultra Processed,1,False,True,False,False,False,False
+SD51,Ultra Processed,1,False,True,False,False,False,False
+SD52,Ultra Processed,0,False,False,False,False,False,False
+MD307,Processed,0,False,False,False,False,False,False
+MD308,Ultra Processed,1,False,True,False,False,False,False
+MD313,Ultra Processed,0,False,False,False,False,False,False
+MD309,Ultra Processed,1,False,True,False,False,False,False
+SD53,Ultra Processed,0,False,False,False,False,False,False
+SD54,Ultra Processed,0,False,False,False,False,False,False
+MD305,Processed,0,False,False,False,False,False,False
+SD55,Ultra Processed,0,False,False,False,False,False,False
+SD56,Ultra Processed,0,False,False,False,False,False,False
+MD306,Ultra Processed,0,False,False,False,False,False,False
+SD57,Ultra Processed,0,False,False,False,False,False,False
+SD58,Ultra Processed,0,False,False,False,False,False,False
+SD59,Ultra Processed,0,False,False,False,False,False,False
+DC314,Ultra Processed,3,True,False,True,True,False,False
+M60,Ultra Processed,1,False,False,True,False,False,False
+M61,Ultra Processed,2,True,False,True,False,False,False
+M62,Ultra Processed,3,True,False,True,True,False,False
+M63,Ultra Processed,1,False,False,True,False,False,False
+M64,Processed,3,False,True,True,True,False,False
+M65,Processed,2,True,False,True,False,False,False
+M66,Ultra Processed,1,False,False,True,False,False,False
+M67,Processed,2,False,False,True,True,False,False
+M68,Processed,2,False,False,True,True,False,False
+M69,Processed,2,False,False,True,True,False,False
+M70,Processed,2,True,False,True,False,False,False
+M71,Ultra Processed,1,False,False,True,False,False,False
+M72,Ultra Processed,2,True,False,True,False,False,False
+M73,Ultra Processed,1,False,False,True,False,False,False
+M15,Ultra Processed,2,False,False,True,True,False,False
+M16,Ultra Processed,0,False,False,False,False,False,False
+M17,Minimally Processed,0,False,False,False,False,False,False
+M18,Processed,1,False,False,True,False,False,False
+M19,Ultra Processed,3,False,True,True,True,False,False
+DC74,Ultra Processed,1,False,True,False,False,False,False
+DC75,Ultra Processed,0,False,False,False,False,False,False
+DC76,Ultra Processed,0,False,False,False,False,False,False
+N77,Ultra Processed,3,True,False,True,True,False,False
+N78,Ultra Processed,3,True,False,True,True,False,False
+N79,Ultra Processed,3,True,False,True,True,False,False
+N80,Ultra Processed,4,True,True,True,True,False,False
+N81,Ultra Processed,2,True,False,True,False,False,False
+N82,Ultra Processed,2,True,False,True,False,False,False
+N83,Ultra Processed,4,True,True,True,True,False,False
+N84,Ultra Processed,3,True,False,True,True,False,False
+N85,Ultra Processed,3,True,False,True,True,False,False
+N86,Ultra Processed,3,True,False,True,True,False,False
+N87,Ultra Processed,3,True,False,True,True,False,False
+N88,Ultra Processed,3,True,False,True,True,False,False
+N89,Ultra Processed,3,True,False,True,True,False,False
+N90,Ultra Processed,3,True,False,True,True,False,False
+N91,Ultra Processed,4,True,True,True,True,False,False
+N92,Ultra Processed,3,True,False,True,True,False,False
+N93,Ultra Processed,3,True,False,True,True,False,False
+N94,Ultra Processed,2,False,False,True,True,False,False
+FM95,Processed,2,True,False,True,False,False,False
+FM96,Processed,2,True,False,True,False,False,False
+FM97,Processed,2,True,False,True,False,False,False
+FM98,Processed,2,True,False,False,True,False,False
+FM99,Processed,2,True,False,True,False,False,False
+FM100,Ultra Processed,1,True,False,False,False,False,False
+FM101,Processed,2,True,False,True,False,False,False
+FM102,Ultra Processed,3,True,False,True,True,False,False
+FM103,Ultra Processed,0,False,False,False,False,False,False
+FM104,Processed,2,True,False,True,False,False,False
+FM105,Ultra Processed,0,False,False,False,False,False,False
+FM106,Ultra Processed,0,False,False,False,False,False,False
+FM107,Processed,1,True,False,False,False,False,False
+FM108,Processed Culinary Ingredients,1,True,False,False,False,False,False
+FM109,Ultra Processed,0,False,False,False,False,False,False
+FM110,Ultra Processed,0,False,False,False,False,False,False
+FM111,Ultra Processed,0,False,False,False,False,False,False
+FM112,Ultra Processed,3,True,False,True,True,False,False
+FM113,Ultra Processed,2,True,False,True,False,False,False
+FM114,Processed,2,True,False,False,True,False,False
+FM115,Ultra Processed,3,True,False,True,True,False,False
+FM116,Processed,2,True,False,True,False,False,False
+FM117,Processed,0,False,False,False,False,False,False
+FM118,Processed,2,True,False,True,False,False,False
+FM119,Processed,3,True,False,True,True,False,False
+FM120,Processed,2,True,False,True,False,False,False
+DC121,Processed,1,False,False,True,False,False,False
+DC122,Processed,4,True,True,True,True,False,False
+DC123,Ultra Processed,2,True,True,False,False,False,False
+DC124,Ultra Processed,3,False,True,True,True,False,False
+DC125,Processed,0,False,False,False,False,False,False
+DC126,Ultra Processed,4,True,True,True,True,False,False
+DC127,Ultra Processed,1,False,False,True,False,False,False
+DC128,Ultra Processed,4,True,True,True,True,False,False
+DC129,Ultra Processed,4,True,True,True,True,False,False
+DC130,Processed,3,True,False,True,True,False,False
+DC131,Processed,4,True,True,True,True,False,False
+DC132,Processed,1,False,False,True,False,False,False
+DC133,Ultra Processed,3,True,True,True,False,False,False
+DC134,Processed,0,False,False,False,False,False,False
+DC135,Ultra Processed,3,True,True,False,True,False,False
+DC136,Processed Culinary Ingredients,0,False,False,False,False,False,False
+HSC137,Processed,1,True,False,False,False,False,False
+HSC138,Ultra Processed,1,True,False,False,False,False,False
+HSC139,Minimally Processed,0,False,False,False,False,False,False
+HSC140,Ultra Processed,0,False,False,False,False,False,False
+HSC141,Ultra Processed,1,True,False,False,False,False,False
+HSC142,Ultra Processed,2,True,True,False,False,False,False
+HSC143,Ultra Processed,2,True,True,False,False,False,False
+HSC144,Minimally Processed,0,False,False,False,False,False,False
+HSC145,Minimally Processed,0,False,False,False,False,False,False
+HSC146,Ultra Processed,1,True,False,False,False,False,False
+HSC147,Minimally Processed,0,False,False,False,False,False,False
+HSC148,Minimally Processed,0,False,False,False,False,False,False
+HSC149,Minimally Processed,0,False,False,False,False,False,False
+HSC150,Minimally Processed,0,False,False,False,False,False,False
+HSC151,Minimally Processed,0,False,False,False,False,False,False
+HSC152,Ultra Processed,0,False,False,False,False,False,False
+HSC153,Processed,0,False,False,False,False,False,False
+HSC154,Minimally Processed,0,False,False,False,False,False,False
+HSC155,Ultra Processed,0,False,False,False,False,False,False
+HSC156,Ultra Processed,0,False,False,False,False,False,False
+HSC157,Minimally Processed,0,False,False,False,False,False,False
+HSC158,Minimally Processed,0,False,False,False,False,False,False
+HSC159,Processed,0,False,False,False,False,False,False
+HSC160,Ultra Processed,1,True,False,False,False,False,False
+HSC161,Ultra Processed,1,True,False,False,False,False,False
+HSC162,Ultra Processed,2,True,True,False,False,False,False
+HSC163,Ultra Processed,1,True,False,False,False,False,False
+HSC164,Ultra Processed,0,False,False,False,False,False,False
+HSC165,Processed,2,False,True,True,False,False,False
+HSC166,Ultra Processed,2,True,True,False,False,False,False
+HSC31,Minimally Processed,0,False,False,False,False,False,False
+HSC32,Ultra Processed,0,False,False,False,False,False,False
+HSC33,Processed,0,False,False,False,False,False,False
+HSC34,Minimally Processed,0,False,False,False,False,False,False
+HSC35,Minimally Processed,0,False,False,False,False,False,False
+HSC36,Ultra Processed,0,False,False,False,False,False,False
+HSC37,Minimally Processed,0,False,False,False,False,False,False
+HSC38,Ultra Processed,0,False,False,False,False,False,False
+HSC39,Ultra Processed,0,False,False,False,False,False,False
+NS167,Processed,2,False,False,True,True,False,False
+NS168,Processed Culinary Ingredients,2,False,False,True,True,False,False
+NS169,Processed,0,False,False,False,False,False,False
+NS170,Processed,3,True,False,True,True,False,False
+NS171,Processed,3,True,False,True,True,False,False
+NS172,Processed,0,False,False,False,False,False,False
+NS173,Processed,2,False,False,True,True,False,False
+NS174,Processed,2,False,False,True,True,False,False
+NS175,Ultra Processed,1,False,False,True,False,False,False
+NS176,Processed,2,False,False,True,True,False,False
+NS177,Processed,2,False,False,True,True,False,False
+NS178,Processed,0,False,False,False,False,False,False
+NS179,Processed,2,False,False,True,True,False,False
+NS180,Processed Culinary Ingredients,0,False,False,False,False,False,False
+NS181,Processed Culinary Ingredients,0,False,False,False,False,False,False
+NS182,Ultra Processed,2,False,False,True,True,False,False
+NS183,Processed,2,False,False,True,True,False,False
+NS184,Processed,2,False,False,True,True,False,False
+NS185,Minimally Processed,2,False,False,True,True,False,False
+NS186,Ultra Processed,0,False,False,False,False,False,False
+NS187,Processed Culinary Ingredients,2,False,False,True,True,False,False
+NS188,Processed,2,False,False,True,True,False,False
+NS189,Minimally Processed,2,False,False,True,True,False,False
+NS190,Processed,2,False,False,True,True,False,False
+NS191,Processed,0,False,False,False,False,False,False
+NS192,Minimally Processed,0,False,False,False,False,False,False
+NS193,Processed,0,False,False,False,False,False,False
+CS194,Processed,2,False,False,True,True,False,False
+CS195,Processed Culinary Ingredients,3,True,False,True,True,False,False
+CS196,Ultra Processed,2,True,False,True,False,False,False
+CS197,Ultra Processed,3,True,False,True,True,False,False
+CS198,Processed Culinary Ingredients,2,False,False,True,True,False,False
+CS199,Ultra Processed,2,True,False,True,False,False,False
+CS200,Ultra Processed,1,False,True,False,False,False,False
+CS201,Ultra Processed,3,True,False,True,True,False,False
+CS202,Ultra Processed,3,False,True,True,True,False,False
+CS203,Minimally Processed,3,False,True,True,True,False,False
+CS204,Ultra Processed,2,True,False,True,False,False,False
+CS205,Ultra Processed,3,True,False,True,True,False,False
+CS1,Ultra Processed,1,False,False,True,False,False,False
+CS206,Ultra Processed,0,False,False,False,False,False,False
+CS207,Processed,0,False,False,False,False,False,False
+CS208,Ultra Processed,3,True,False,True,True,False,False
+CS209,Processed,3,False,True,True,True,False,False
+CS210,Ultra Processed,2,True,False,True,False,False,False
+CS211,Processed,0,False,False,False,False,False,False
+CS212,Ultra Processed,2,True,True,False,False,False,False
+CS213,Ultra Processed,2,True,False,True,False,False,False
+CS214,Minimally Processed,3,True,False,True,True,False,False
+Y215,Minimally Processed,3,True,False,True,True,False,False
+Y216,Processed Culinary Ingredients,3,True,False,True,True,False,False
+Y217,Ultra Processed,0,False,False,False,False,False,False
+Y218,Processed,0,False,False,False,False,False,False
+Y219,Ultra Processed,3,True,True,False,True,False,False
+Y220,Minimally Processed,0,False,False,False,False,False,False
+Y221,Ultra Processed,2,False,True,False,True,False,False
+Y222,Ultra Processed,0,False,False,False,False,False,False
+Y223,Ultra Processed,0,False,False,False,False,False,False
+Y224,Ultra Processed,1,False,True,False,False,False,False
+Y225,Ultra Processed,1,False,True,False,False,False,False
+Y226,Ultra Processed,0,False,False,False,False,False,False
+Y227,Ultra Processed,0,False,False,False,False,False,False
+Y228,Processed,0,False,False,False,False,False,False
+Y229,Processed,1,False,True,False,False,False,False
+Y230,Processed,1,False,True,False,False,False,False
+Y231,Ultra Processed,0,False,False,False,False,False,False
+Y232,Ultra Processed,1,False,True,False,False,False,False
+Y233,Minimally Processed,0,False,False,False,False,False,False
+Y234,Minimally Processed,0,False,False,False,False,False,False
+Y235,Ultra Processed,0,False,False,False,False,False,False
+Y236,Ultra Processed,2,True,True,False,False,False,False
+Y237,Ultra Processed,1,False,True,False,False,False,False
+Y238,Ultra Processed,0,False,False,False,False,False,False
+Y239,Ultra Processed,0,False,False,False,False,False,False
+Y240,Ultra Processed,0,False,False,False,False,False,False
+Y241,Ultra Processed,1,False,True,False,False,False,False
+Y242,Ultra Processed,1,False,False,True,False,False,False
+Y243,Ultra Processed,0,False,False,False,False,False,False
+SSH244,Processed Culinary Ingredients,0,False,False,False,False,False,False
+SSH245,Ultra Processed,0,False,False,False,False,False,False
+SSH246,Ultra Processed,1,False,True,False,False,False,False
+SSH247,Minimally Processed,0,False,False,False,False,False,False
+SSH248,Processed,0,False,False,False,False,False,False
+SSH249,Processed Culinary Ingredients,0,False,False,False,False,False,False
+SSH250,Ultra Processed,0,False,False,False,False,False,False
+SSH251,Processed,0,False,False,False,False,False,False
+SSH252,Processed,0,False,False,False,False,False,False
+SSH253,Ultra Processed,0,False,False,False,False,False,False
+SSH254,Processed,0,False,False,False,False,False,False
+SSH255,Processed,0,False,False,False,False,False,False
+SSH256,Ultra Processed,2,True,True,False,False,False,False
+SSH257,Minimally Processed,0,False,False,False,False,False,False
+SSH258,Processed,0,False,False,False,False,False,False
+SSH259,Processed Culinary Ingredients,1,False,True,False,False,False,False
+SSH260,Minimally Processed,1,False,True,False,False,False,False
+SSH261,Processed Culinary Ingredients,1,False,True,False,False,False,False
+SSH262,Minimally Processed,0,False,False,False,False,False,False
+SSH263,Minimally Processed,1,False,True,False,False,False,False
+SSH264,Ultra Processed,1,False,True,False,False,False,False
+SSH265,Ultra Processed,0,False,False,False,False,False,False
+SSH266,Ultra Processed,1,False,True,False,False,False,False
+SSH267,Processed Culinary Ingredients,1,False,True,False,False,False,False
+SSH268,Ultra Processed,0,False,False,False,False,False,False
+SSH269,Processed Culinary Ingredients,1,False,True,False,False,False,False
+SSH270,Processed Culinary Ingredients,1,False,True,False,False,False,False
+SSH271,Processed,0,False,False,False,False,False,False
+SSH272,Processed,0,False,False,False,False,False,False
+SSH273,Processed Culinary Ingredients,1,False,True,False,False,False,False
+B274,Ultra Processed,0,False,False,False,False,False,False
+B275,Minimally Processed,0,False,False,False,False,False,False
+B276,Minimally Processed,0,False,False,False,False,False,False
+B277,Minimally Processed,0,False,False,False,False,False,False
+B278,Ultra Processed,2,False,True,True,False,False,False
+B279,Minimally Processed,0,False,False,False,False,False,False
+B280,Minimally Processed,0,False,False,False,False,False,False
+B281,Ultra Processed,1,False,True,False,False,False,False
+B282,Ultra Processed,1,False,True,False,False,False,False
+B283,Minimally Processed,0,False,False,False,False,False,False
+B284,Minimally Processed,0,False,False,False,False,False,False
+B285,Minimally Processed,0,False,False,False,False,False,False
+B286,Ultra Processed,1,False,True,False,False,False,False
+B287,Ultra Processed,1,False,True,False,False,False,False
+B288,Minimally Processed,0,False,False,False,False,False,False
+B289,Ultra Processed,0,False,False,False,False,False,False
+B290,Ultra Processed,1,False,True,False,False,False,False
+B291,Minimally Processed,0,False,False,False,False,False,False
+B292,Processed,1,False,True,False,False,False,False
+B293,Ultra Processed,0,False,False,False,False,False,False
+B294,Ultra Processed,0,False,False,False,False,False,False
+B295,Ultra Processed,0,False,False,False,False,False,False
+B296,Ultra Processed,1,False,True,False,False,False,False
+B297,Minimally Processed,0,False,False,False,False,False,False
+B298,Ultra Processed,1,False,True,False,False,False,False
+B299,Processed,0,False,False,False,False,False,False
+B300,Processed,0,False,False,False,False,False,False
+B301,Ultra Processed,0,False,False,False,False,False,False
+B29,Ultra Processed,1,False,True,False,False,False,False
+BI1,Ultra Processed,0,False,False,False,False,False,False
+BI2,Minimally Processed,0,False,False,False,False,False,False
+BI3,Ultra Processed,1,False,False,True,False,False,False
+BI4,Ultra Processed,4,True,True,True,True,False,False
+BI5,Ultra Processed,0,False,False,False,False,False,False
+BI6,Ultra Processed,0,False,False,False,False,False,False
+BI7,Ultra Processed,1,False,False,True,False,False,False
+BI8,Ultra Processed,4,True,True,True,True,False,False
+BI9,Ultra Processed,4,True,True,True,True,False,False
+BI10,Minimally Processed,1,False,False,True,False,False,False
+BI11,Ultra Processed,4,True,True,True,True,False,False
+BI12,Ultra Processed,1,False,False,True,False,False,False
+BI13,Ultra Processed,2,True,False,True,False,False,False
+BI14,Ultra Processed,1,False,False,True,False,False,False
+BI15,Ultra Processed,1,False,False,True,False,False,False
+FW1,Ultra Processed,0,False,False,False,False,False,False
+FW2,Ultra Processed,0,False,False,False,False,False,False
+FW3,Processed,1,False,True,False,False,False,False
+FW4,Ultra Processed,0,False,False,False,False,False,False
+FW5,Minimally Processed,0,False,False,False,False,False,False
+FW6,Ultra Processed,1,False,True,False,False,False,False
+AW1,Minimally Processed,0,False,False,False,False,False,False
+AW2,Ultra Processed,0,False,False,False,False,False,False
+AW3,Minimally Processed,0,False,False,False,False,False,False
+AW4,Minimally Processed,0,False,False,False,False,False,False
+AW5,Minimally Processed,0,False,False,False,False,False,False
+AW6,Minimally Processed,0,False,False,False,False,False,False
+AW7,Ultra Processed,0,False,False,False,False,False,False
+AW8,Ultra Processed,0,False,False,False,False,False,False
+AW9,Minimally Processed,0,False,False,False,False,False,False
+AW10,Minimally Processed,0,False,False,False,False,False,False
+AW11,Minimally Processed,0,False,False,False,False,False,False
+AW12,Ultra Processed,0,False,False,False,False,False,False
+AW13,Ultra Processed,0,False,False,False,False,False,False
+AW14,Ultra Processed,1,False,True,False,False,False,False
+AW15,Minimally Processed,0,False,False,False,False,False,False
+P1,Processed Culinary Ingredients,0,False,False,False,False,False,False
+P2,Minimally Processed,0,False,False,False,False,False,False
+P3,Ultra Processed,0,False,False,False,False,False,False
+P4,Minimally Processed,0,False,False,False,False,False,False
+P5,Ultra Processed,0,False,False,False,False,False,False
+P6,Ultra Processed,2,True,True,False,False,False,False
+P7,Ultra Processed,0,False,False,False,False,False,False
+P8,Ultra Processed,2,True,True,False,False,False,False
+P9,Processed Culinary Ingredients,0,False,False,False,False,False,False
+P10,Processed Culinary Ingredients,0,False,False,False,False,False,False
+P11,Ultra Processed,2,True,True,False,False,False,False
+P12,Ultra Processed,0,False,False,False,False,False,False
+CO1,Processed Culinary Ingredients,2,False,False,True,True,False,False
+CO2,Minimally Processed,0,False,False,False,False,False,False
+CO3,Processed,2,False,False,True,True,False,False
+CO4,Processed Culinary Ingredients,2,False,False,True,True,False,False
+CO5,Minimally Processed,0,False,False,False,False,False,False
+CO6,Processed,2,False,False,True,True,False,False
+CO7,Processed,2,False,False,True,True,False,False
+CO8,Minimally Processed,2,False,False,True,True,False,False
+CO9,Processed,2,False,False,True,True,False,False
+CO10,Minimally Processed,2,False,False,True,True,False,False
+CO11,Processed Culinary Ingredients,2,False,False,True,True,False,False
+CO12,Minimally Processed,2,False,False,True,True,False,False
+CO13,Ultra Processed,0,False,False,False,False,False,False
+CO14,Minimally Processed,2,False,False,True,True,False,False
+CO15,Minimally Processed,2,False,False,True,True,False,False
+CO16,Processed,2,False,False,True,True,False,False
+CO17,Processed,2,False,False,True,True,False,False
+CO18,Processed,2,False,False,True,True,False,False
+CO19,Processed,2,False,False,True,True,False,False
+CO20,Minimally Processed,0,False,False,False,False,False,False
+CO21,Minimally Processed,0,False,False,False,False,False,False
+Br1,Ultra Processed,0,False,False,False,False,False,False
+Br2,Processed,0,False,False,False,False,False,False
+Br3,Processed,0,False,False,False,False,False,False
+Br4,Ultra Processed,0,False,False,False,False,False,False
+Br5,Processed,0,False,False,False,False,False,False
+Br6,Processed,0,False,False,False,False,False,False
+Br7,Processed,0,False,False,False,False,False,False
+PS1,Minimally Processed,0,False,False,False,False,False,False
+PS2,Processed,0,False,False,False,False,False,False
+PS3,Ultra Processed,0,False,False,False,False,False,False
+PS4,Minimally Processed,0,False,False,False,False,False,False
+PS5,Minimally Processed,1,True,False,False,False,False,False
+PS6,Minimally Processed,0,False,False,False,False,False,False
+PS7,Processed,0,False,False,False,False,False,False
+PS8,Processed,0,False,False,False,False,False,False
+PS9,Minimally Processed,0,False,False,False,False,False,False
+PS10,Minimally Processed,2,True,False,True,False,False,False
+PS11,Minimally Processed,0,False,False,False,False,False,False
+FJ1,Ultra Processed,1,False,True,False,False,False,False
+FJ2,Ultra Processed,0,False,False,False,False,False,False
+FJ3,Ultra Processed,0,False,False,False,False,False,False
+FJ4,Ultra Processed,0,False,False,False,False,False,False
+FJ5,Ultra Processed,0,False,False,False,False,False,False
+FJ6,Ultra Processed,1,False,True,False,False,False,False
+FJ7,Ultra Processed,1,False,True,False,False,False,False
+FJ8,Ultra Processed,0,False,False,False,False,False,False
+FJ9,Ultra Processed,0,False,False,False,False,False,False
+FJ10,Processed,0,False,False,False,False,False,False
+FJ11,Ultra Processed,0,False,False,False,False,False,False
+FJ12,Processed,1,False,True,False,False,False,False
+FJ13,Ultra Processed,1,False,True,False,False,False,False
+FJ14,Ultra Processed,1,False,True,False,False,False,False
+FJ15,Ultra Processed,1,False,True,False,False,False,False
+FJ16,Ultra Processed,1,False,True,False,False,False,False
+FJ17,Ultra Processed,1,False,True,False,False,False,False
+FJ18,Ultra Processed,1,False,True,False,False,False,False
+FJ19,Ultra Processed,0,False,False,False,False,False,False
+FJ20,Ultra Processed,0,False,False,False,False,False,False
+FJ21,Ultra Processed,0,False,False,False,False,False,False
+FJ22,Ultra Processed,0,False,False,False,False,False,False
+MSS1,Ultra Processed,1,False,False,True,False,False,False
+MSS2,Ultra Processed,3,True,False,True,True,False,False
+MSS3,Ultra Processed,3,False,True,True,True,False,False
+MSS4,Processed,0,False,False,False,False,False,False
+MSS5,Ultra Processed,0,False,False,False,False,False,False
+MSS6,Minimally Processed,3,True,False,True,True,False,False
+MSS7,Ultra Processed,1,False,True,False,False,False,False
+MSS8,Minimally Processed,2,False,False,True,True,False,False
+MSS9,Ultra Processed,3,True,False,True,True,False,False
+MSS10,Minimally Processed,3,True,False,True,True,False,False
+MSS11,Minimally Processed,0,False,False,False,False,False,False
+MSS12,Ultra Processed,3,True,True,True,False,False,False
+MSS13,Ultra Processed,1,False,True,False,False,False,False
+MSS14,Minimally Processed,1,False,True,False,False,False,False
+MSS15,Processed,0,False,False,False,False,False,False
+MSS16,Ultra Processed,3,False,True,True,True,False,False
+MSS17,Minimally Processed,0,False,False,False,False,False,False
+MSS18,Ultra Processed,0,False,False,False,False,False,False
+MSS19,Ultra Processed,1,False,True,False,False,False,False
+Be1,Minimally Processed,0,False,False,False,False,False,False
+Be2,Ultra Processed,0,False,False,False,False,False,False
+Be3,Minimally Processed,0,False,False,False,False,False,False
+Be4,Minimally Processed,0,False,False,False,False,False,False
+Be5,Ultra Processed,0,False,False,False,False,False,False
+Be6,Minimally Processed,0,False,False,False,False,False,False
+Be7,Ultra Processed,0,False,False,False,False,False,False
+Be8,Ultra Processed,1,False,True,False,False,False,False
+Be9,Minimally Processed,0,False,False,False,False,False,False
+Be10,Minimally Processed,0,False,False,False,False,False,False
+Be11,Ultra Processed,0,False,False,False,False,False,False
+Be12,Minimally Processed,0,False,False,False,False,False,False
+Be13,Ultra Processed,0,False,False,False,False,False,False
+Pa1,Minimally Processed,0,False,False,False,False,False,False
+Pa2,Minimally Processed,1,False,True,False,False,False,False
+Pa3,Minimally Processed,1,False,True,False,False,False,False
+Pa4,Minimally Processed,0,False,False,False,False,False,False
+Pa5,Minimally Processed,0,False,False,False,False,False,False
+Pa6,Minimally Processed,0,False,False,False,False,False,False
+Pa7,Minimally Processed,0,False,False,False,False,False,False
+Pa8,Minimally Processed,1,False,True,False,False,False,False
+Pa9,Minimally Processed,0,False,False,False,False,False,False
+Pa10,Minimally Processed,0,False,False,False,False,False,False
+Pa11,Minimally Processed,0,False,False,False,False,False,False
+Pa12,Minimally Processed,0,False,False,False,False,False,False
+Pa13,Minimally Processed,0,False,False,False,False,False,False
+SG1,Minimally Processed,0,False,False,False,False,False,False
+SG2,Ultra Processed,1,False,False,True,False,False,False
+SG3,Minimally Processed,1,False,True,False,False,False,False
+SG4,Ultra Processed,0,False,False,False,False,False,False
+SG5,Ultra Processed,1,False,True,False,False,False,False
+SG6,Ultra Processed,1,False,True,False,False,False,False
+SG7,Ultra Processed,1,False,True,False,False,False,False
+SG8,Ultra Processed,1,False,True,False,False,False,False
+SG9,Ultra Processed,3,False,True,True,True,False,False
+SG10,Minimally Processed,4,True,True,True,True,False,False
+SG11,Ultra Processed,3,False,True,True,True,False,False
+SG12,Ultra Processed,4,True,True,True,True,False,False
+SG13,Ultra Processed,4,True,True,True,True,False,False
+SG14,Ultra Processed,0,False,False,False,False,False,False
+SG15,Ultra Processed,0,False,False,False,False,False,False

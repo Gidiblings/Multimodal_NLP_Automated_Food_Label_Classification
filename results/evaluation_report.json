@@ -1,0 +1,126 @@
+{
+  "extraction_metrics": {
+    "n_samples": 103,
+    "extraction_rates": {
+      "product_name": {
+        "rate": 1.0,
+        "extracted": 103,
+        "total": 103
+      },
+      "ingredient_list": {
+        "rate": 0.8543689320388349,
+        "extracted": 88,
+        "total": 103
+      },
+      "energy_kcal": {
+        "rate": 0.6504854368932039,
+        "extracted": 67,
+        "total": 103
+      },
+      "protein_g": {
+        "rate": 0.0,
+        "extracted": 0,
+        "total": 103
+      },
+      "fat_g": {
+        "rate": 0.4854368932038835,
+        "extracted": 50,
+        "total": 103
+      },
+      "sugar_g": {
+        "rate": 0.42718446601941745,
+        "extracted": 44,
+        "total": 103
+      },
+      "added_sugar_g": {
+        "rate": 0.0,
+        "extracted": 0,
+        "total": 103
+      }
+    }
+  },
+  "nova_metrics": {
+    "accuracy": 0.8181818181818182,
+    "precision": 0.8679668457163491,
+    "recall": 0.8181818181818182,
+    "f1_score": 0.8396258800837486,
+    "n_samples": 88,
+    "classification_report": {
+      "Minimally Processed": {
+        "precision": 0.75,
+        "recall": 0.8181818181818182,
+        "f1-score": 0.782608695652174,
+        "support": 11.0
+      },
+      "Processed": {
+        "precision": 0.5789473684210527,
+        "recall": 0.6875,
+        "f1-score": 0.6285714285714286,
+        "support": 16.0
+      },
+      "Processed Culinary Ingredients": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+      },
+      "Ultra Processed": {
+        "precision": 0.9811320754716981,
+        "recall": 0.8666666666666667,
+        "f1-score": 0.9203539823008849,
+        "support": 60.0
+      },
+      "accuracy": 0.8181818181818182,
+      "macro avg": {
+        "precision": 0.5775198609731877,
+        "recall": 0.5930871212121213,
+        "f1-score": 0.5828835266311219,
+        "support": 88.0
+      },
+      "weighted avg": {
+        "precision": 0.8679668457163491,
+        "recall": 0.8181818181818182,
+        "f1-score": 0.8396258800837486,
+        "support": 88.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        9,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        11,
+        3,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        0,
+        52
+      ]
+    ]
+  },
+  "profile_metrics": {
+    "nutrient_profile": {
+      "accuracy": 0.3584905660377358,
+      "n_samples": 53
+    }
+  },
+  "healthiness_distribution": {
+    "Less Healthy": 241,
+    "Moderately Healthy": 184,
+    "Healthier": 87
+  },
+  "total_products_analyzed": 512
+}

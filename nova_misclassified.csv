@@ -1,0 +1,39 @@
+product_id,predicted,actual,ingredients,reasoning
+BI8,Processed,Ultra Processed,"wheat flour, sugar, chocolate chips (20% - sugar. Cocoa mass, vegetable fats, syrup, whey or whey derivatives, milk), raising agents (ammonium bicarbonate, sodium bicarbonate), salt, flavourings  ","No processing indicators found, defaulting to processed"
+Y229,Minimally Processed,Processed,"water, full cream milk, skimmed milk, sugar, lemon food preparation, culture (thermophilus lactobacillus bulgaricus and streptococcus thermophilus)",Contains natural/minimally processed ingredients
+MD304,Minimally Processed,Ultra Processed,"Water, malted barley,sucrose, sorghum, caramel,Hop extract, Vitamin A, B1, B2, B3, B5, B6 and C, magnesium, zinc",Contains natural/minimally processed ingredients
+CO10,Processed,Processed Culinary Ingredients,100% pure coconut oil,"No processing indicators found, defaulting to processed"
+Pa11,Processed,Minimally Processed,made from hard wheat,"No processing indicators found, defaulting to processed"
+Br7,Minimally Processed,Ultra Processed,"Flour, water, sugar, milk, salt, improver, butter",Contains natural/minimally processed ingredients
+MD306,Minimally Processed,Ultra Processed,"Carbonated water, sorghum, sugar, malted sorghum, caramel, Hops, foam stabilizer",Contains natural/minimally processed ingredients
+PS11,Processed,Minimally Processed,sweet potato,"No processing indicators found, defaulting to processed"
+PS8,Processed,Ultra Processed,"wheat, micronutrients (zinc, vitamin B3, iron, vitamin B1, Vitamin B6, Vitamin B2, Vitamin B9, Vitamin A, Vitamin B12)","No processing indicators found, defaulting to processed"
+B299,Processed,Minimally Processed,"Astragalus root,isatis root,privet berry,wild yam rhizome,honeysuckle stem & flower,jasmine flower","No processing indicators found, defaulting to processed"
+Pa2,Processed,Minimally Processed,"Durum wheat, semolina","No processing indicators found, defaulting to processed"
+SD46,Minimally Processed,Ultra Processed,"Carbonated water, buffer salt, sodium bicarbonate",Contains natural/minimally processed ingredients
+Y224,Minimally Processed,Ultra Processed,"water, sugar, skimmed milk powder, fat filled powder, stabilizer(s) (E1422), ",Contains natural/minimally processed ingredients
+SG8,Processed,Ultra Processed,"Glucose syrup,  sugar, fekatine, dextrose, cirtic acid, fruit and plant concentrates (apple, aronia, beetroot, bilberry, blackcurrant, carrot, elderberry, grap, lemon, mango, orange, passion fruit, radish, safflower, spirulina, sweet potato, sunflower oil), flavouring agent: glazing agent, beeswap, caramelised sugar syrup: elderberry extract. ","No processing indicators found, defaulting to processed"
+Pa9,Processed,Minimally Processed,Semolina from durum and hard wheat,"No processing indicators found, defaulting to processed"
+HSC144,Processed,Minimally Processed,Udu bay leaves,"No processing indicators found, defaulting to processed"
+FJ15,Minimally Processed,Ultra Processed,"Water, banana juice (50%), sugar, sodium carboxymethyl cellulose, citric acid, natural and artifical flavour, trisodium citrate, salt, ascorbic acid, natural beta carotene, vitamins (B3, B5. B6)",Contains natural/minimally processed ingredients
+HSC159,Processed,Ultra Processed,"Crushed ginger powder,crushed garlic powder,salt and anti-caking agent(E551)","No processing indicators found, defaulting to processed"
+MSS11,Processed,Ultra Processed,"Sweetner (sorbitol), blackcurrants, gelling agent (pectins), 35g/100g fruit.","No processing indicators found, defaulting to processed"
+HSC157,Processed,Minimally Processed,"Nutmeg, anise, cinnamon, clove, cumin, onion, ginger, dill, garlic and bay leaves","No processing indicators found, defaulting to processed"
+HSC139,Processed,Minimally Processed,Thyme leaves,"No processing indicators found, defaulting to processed"
+SD6,Minimally Processed,Ultra Processed,"Water, sucrose, glucose, acidity regulator (sodium bicarbonate), acidity regulator (magnesium carbonate), colour (caramel), caffeine (0.03%), niacin, pantothenic acid, Vitamin B6, colour (riboflavin), vitamin B12",Contains natural/minimally processed ingredients
+Be2,Minimally Processed,Ultra Processed,"water, malted barley, sucrose, hop extract, acidity regulator, citric acid, aguardiante (0.1%), natural flavouring with lemon and lime",Contains natural/minimally processed ingredients
+SD42,Minimally Processed,Ultra Processed,"Carbonated water,sugar,colour,caramel,acidulant:phosphoric acid,cola flavour and caffeine",Contains natural/minimally processed ingredients
+SSH273,Processed,Minimally Processed,Honey,"No processing indicators found, defaulting to processed"
+MSS7,Processed,Ultra Processed,"invert sugar syrup, concentrated strawberry juice (2.5%), colour (anthocuannis, citric acid, flavouring","No processing indicators found, defaulting to processed"
+FJ13,Processed,Ultra Processed,"Reconstituted carbonated apple concentrate, flavouring","No processing indicators found, defaulting to processed"
+Br1,Minimally Processed,Ultra Processed,"Wheat flour, water, sugar, vegetable fat, salt, yeast, egg preservative, milk, concentrate, oxiding agent",Contains natural/minimally processed ingredients
+BI1,Processed,Ultra Processed,"wheat flour, vegetable shortening, carotene, palm oil, sugar, glucose, syrup, corn flour, salt, baking powder, and vanilla flavouring.","No processing indicators found, defaulting to processed"
+DC121,Minimally Processed,Processed,"Wheat flour, sugar, vegetable oil, iodized salt, corn starch, baking powder, water",Contains natural/minimally processed ingredients
+M15,Processed,Ultra Processed,"Milk fat 0.4%, vegetable fat 7.6% min, mik solids non-fat 19.5%, vitamins c, B1, B2, B6, B12, Phosphorus, sodium, potassium, sodium, potassium, chloride, magnesium, copper, iodine, manganese, selenium, chromium, molybdenum, flouride, biotin, folic acid, niacin, pantothenic acid, iron and zinc","No processing indicators found, defaulting to processed"
+B290,Processed,Ultra Processed,"sugar,protomalt extract (sorghum),milk(),cocoa powder,vegetable oil,sweet whey powder,calcium phosphate,vitamin premix(vitamin C,niacin,vitamin B6,Vitamin B2, vitamin D, vitamin B12),ferric pyrophosphate","No processing indicators found, defaulting to processed"
+HSC158,Processed,Minimally Processed,Thyme leaves,"No processing indicators found, defaulting to processed"
+MD307,Minimally Processed,Ultra Processed,"Malted sorghum, water, maize, sucrose, caramel, hops, vitamins A, B1, B2, B6 &C",Contains natural/minimally processed ingredients
+DC76,Minimally Processed,Ultra Processed,"Whole milk powder, sugar, vegetable fat, water, emusifier, vanilla flavour",Contains natural/minimally processed ingredients
+Y230,Minimally Processed,Processed,"water, full cream milk, skimmed milk, sugar, lemon food preparation, culture (thermophilus lactobacillus bulgaricus and streptococcus thermophilus)",Contains natural/minimally processed ingredients
+FJ5,Minimally Processed,Ultra Processed,"Water , red grape juice from concentrate (51% fruit content), natural fruit extracts of pineapple, pear, apple and white grape",Contains natural/minimally processed ingredients
+M18,Minimally Processed,Ultra Processed,"Sugar 47%, water, non-fat milk solids 11%, vegetable fat minimum 10%. Vitamins (A, D3, B1) and protein 2%",Contains natural/minimally processed ingredients

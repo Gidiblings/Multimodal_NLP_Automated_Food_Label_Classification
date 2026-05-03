@@ -1,0 +1,6 @@
+product_id,codex_category,codex_confidence,nutrient_profile,compliant,exceeded_details,missing_nutrients
+SD1,Unknown,0.0,"Missing: fat_g, saturated_fat_g, sugar_g, sodium_mg",False,[],"['fat_g', 'saturated_fat_g', 'sugar_g', 'sodium_mg']"
+SD2,Unknown,0.0,"Missing: fat_g, saturated_fat_g, sugar_g, sodium_mg",False,[],"['fat_g', 'saturated_fat_g', 'sugar_g', 'sodium_mg']"
+SD3,Unknown,0.0,"Missing: fat_g, saturated_fat_g, sugar_g, sodium_mg",False,[],"['fat_g', 'saturated_fat_g', 'sugar_g', 'sodium_mg']"
+SD4,Unknown,0.0,"Missing: fat_g, saturated_fat_g, sugar_g, sodium_mg",False,[],"['fat_g', 'saturated_fat_g', 'sugar_g', 'sodium_mg']"
+SD5,Unknown,0.0,"Missing: fat_g, saturated_fat_g, sugar_g, sodium_mg",False,[],"['fat_g', 'saturated_fat_g', 'sugar_g', 'sodium_mg']"

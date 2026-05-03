@@ -1,0 +1,513 @@
+product_id,NOVA_Predicted
+BC1,Minimally Processed
+BC2,Minimally Processed
+BC3,Processed
+BC4,Minimally Processed
+BC5,Processed
+BC6,Processed
+BC7,Minimally Processed
+BC8,Minimally Processed
+BC9,Processed
+BC10,Processed
+BC11,Ultra Processed
+BC12,Processed
+BC13,Ultra Processed
+BC14,Ultra Processed
+BC15,Ultra Processed
+BC16,Processed
+BC17,Minimally Processed
+BC18,Ultra Processed
+IF19,Processed Culinary Ingredients
+IF20,Processed Culinary Ingredients
+IF21,Ultra Processed
+IF22,Ultra Processed
+IF23,Processed
+IF24,Ultra Processed
+IF25,Processed
+IF26,Processed
+IF27,Minimally Processed
+IF28,Minimally Processed
+IF29,Ultra Processed
+IF30,Minimally Processed
+IF31,Ultra Processed
+IF32,Ultra Processed
+IF33,Ultra Processed
+IF1,Processed Culinary Ingredients
+SD34,Ultra Processed
+SD35,Processed
+SD36,Processed
+SD37,Processed
+SD38,Ultra Processed
+MD302,Processed Culinary Ingredients
+MD303,Processed
+SD39,Ultra Processed
+SD40,Ultra Processed
+MD304,Processed Culinary Ingredients
+MD310,Processed Culinary Ingredients
+MD311,Processed
+MD312,Processed
+SD41,Minimally Processed
+SD42,Processed
+SD43,Ultra Processed
+SD44,Ultra Processed
+SD45,Ultra Processed
+SD46,Processed
+SD1,Ultra Processed
+SD2,Minimally Processed
+SD3,Processed
+SD4,Ultra Processed
+SD5,Ultra Processed
+SD6,Processed Culinary Ingredients
+SD7,Ultra Processed
+SD8,Ultra Processed
+SD9,Ultra Processed
+SD10,Minimally Processed
+SD11,Ultra Processed
+SD12,Minimally Processed
+SD47,Ultra Processed
+SD48,Ultra Processed
+SD49,Ultra Processed
+SD50,Processed
+SD51,Processed
+SD52,Processed Culinary Ingredients
+MD307,Processed Culinary Ingredients
+MD308,Processed Culinary Ingredients
+MD313,Processed
+MD309,Processed Culinary Ingredients
+SD53,Processed Culinary Ingredients
+SD54,Ultra Processed
+MD305,Processed Culinary Ingredients
+SD55,Processed Culinary Ingredients
+SD56,Ultra Processed
+MD306,Processed
+SD57,Processed Culinary Ingredients
+SD58,Processed Culinary Ingredients
+SD59,Processed Culinary Ingredients
+DC314,Ultra Processed
+M60,Processed Culinary Ingredients
+M61,Processed Culinary Ingredients
+M62,Processed Culinary Ingredients
+M63,Processed
+M64,Processed Culinary Ingredients
+M65,Processed Culinary Ingredients
+M66,Ultra Processed
+M67,Processed Culinary Ingredients
+M68,Processed Culinary Ingredients
+M69,Processed Culinary Ingredients
+M70,Processed Culinary Ingredients
+M71,Minimally Processed
+M72,Processed
+M73,Processed Culinary Ingredients
+M15,Processed Culinary Ingredients
+M16,Processed Culinary Ingredients
+M17,Processed Culinary Ingredients
+M18,Processed
+M19,Processed
+DC74,Processed
+DC75,Ultra Processed
+DC76,Processed
+N77,Ultra Processed
+N78,Processed
+N79,Processed
+N80,Ultra Processed
+N81,Processed
+N82,Processed
+N83,Ultra Processed
+N84,Ultra Processed
+N85,Ultra Processed
+N86,Ultra Processed
+N87,Ultra Processed
+N88,Ultra Processed
+N89,Processed
+N90,Ultra Processed
+N91,Ultra Processed
+N92,Processed
+N93,Ultra Processed
+N94,Ultra Processed
+FM95,Processed
+FM96,Processed
+FM97,Processed
+FM98,Processed
+FM99,Processed
+FM100,Minimally Processed
+FM101,Processed
+FM102,Ultra Processed
+FM103,Ultra Processed
+FM104,Processed
+FM105,Ultra Processed
+FM106,Ultra Processed
+FM107,Processed
+FM108,Processed
+FM109,Ultra Processed
+FM110,Ultra Processed
+FM111,Ultra Processed
+FM112,Ultra Processed
+FM113,Ultra Processed
+FM114,Processed
+FM115,Ultra Processed
+FM116,Processed
+FM117,Processed
+FM118,Processed
+FM119,Processed
+FM120,Processed
+DC121,Processed
+DC122,Processed
+DC123,Ultra Processed
+DC124,Ultra Processed
+DC125,Processed
+DC126,Processed
+DC127,Ultra Processed
+DC128,Ultra Processed
+DC129,Ultra Processed
+DC130,Processed
+DC131,Processed
+DC132,Processed
+DC133,Minimally Processed
+DC134,Processed
+DC135,Minimally Processed
+DC136,Processed
+HSC137,Processed
+HSC138,Ultra Processed
+HSC139,Minimally Processed
+HSC140,Processed
+HSC141,Processed
+HSC142,Processed
+HSC143,Processed
+HSC144,Minimally Processed
+HSC145,Minimally Processed
+HSC146,Processed
+HSC147,Minimally Processed
+HSC148,Minimally Processed
+HSC149,Minimally Processed
+HSC150,Minimally Processed
+HSC151,Minimally Processed
+HSC152,Minimally Processed
+HSC153,Processed
+HSC154,Minimally Processed
+HSC155,Minimally Processed
+HSC156,Minimally Processed
+HSC157,Minimally Processed
+HSC158,Minimally Processed
+HSC159,Processed
+HSC160,Ultra Processed
+HSC161,Ultra Processed
+HSC162,Processed
+HSC163,Ultra Processed
+HSC164,Processed
+HSC165,Processed
+HSC166,Processed
+HSC31,Minimally Processed
+HSC32,Processed
+HSC33,Processed
+HSC34,Minimally Processed
+HSC35,Minimally Processed
+HSC36,Processed
+HSC37,Minimally Processed
+HSC38,Processed
+HSC39,Minimally Processed
+NS167,Processed
+NS168,Processed
+NS169,Processed
+NS170,Processed
+NS171,Processed
+NS172,Processed
+NS173,Processed
+NS174,Processed
+NS175,Minimally Processed
+NS176,Processed
+NS177,Processed
+NS178,Processed
+NS179,Processed
+NS180,Processed
+NS181,Processed
+NS182,Ultra Processed
+NS183,Processed
+NS184,Processed
+NS185,Processed
+NS186,Minimally Processed
+NS187,Processed
+NS188,Processed
+NS189,Minimally Processed
+NS190,Processed
+NS191,Processed
+NS192,Minimally Processed
+NS193,Processed
+CS194,Processed
+CS195,Processed
+CS196,Minimally Processed
+CS197,Ultra Processed
+CS198,Processed
+CS199,Ultra Processed
+CS200,Processed
+CS201,Ultra Processed
+CS202,Minimally Processed
+CS203,Minimally Processed
+CS204,Processed
+CS205,Processed
+CS1,Processed
+CS206,Minimally Processed
+CS207,Processed
+CS208,Ultra Processed
+CS209,Processed
+CS210,Processed
+CS211,Processed
+CS212,Ultra Processed
+CS213,Ultra Processed
+CS214,Minimally Processed
+Y215,Processed Culinary Ingredients
+Y216,Processed
+Y217,Processed
+Y218,Processed
+Y219,Ultra Processed
+Y220,Minimally Processed
+Y221,Ultra Processed
+Y222,Ultra Processed
+Y223,Ultra Processed
+Y224,Processed
+Y225,Processed
+Y226,Ultra Processed
+Y227,Ultra Processed
+Y228,Processed Culinary Ingredients
+Y229,Processed
+Y230,Processed
+Y231,Processed
+Y232,Processed
+Y233,Processed Culinary Ingredients
+Y234,Processed Culinary Ingredients
+Y235,Processed
+Y236,Ultra Processed
+Y237,Processed
+Y238,Processed
+Y239,Processed
+Y240,Processed
+Y241,Ultra Processed
+Y242,Processed
+Y243,Processed
+SSH244,Minimally Processed
+SSH245,Ultra Processed
+SSH246,Processed Culinary Ingredients
+SSH247,Minimally Processed
+SSH248,Processed
+SSH249,Minimally Processed
+SSH250,Processed
+SSH251,Processed
+SSH252,Processed
+SSH253,Minimally Processed
+SSH254,Processed
+SSH255,Processed
+SSH256,Minimally Processed
+SSH257,Minimally Processed
+SSH258,Minimally Processed
+SSH259,Minimally Processed
+SSH260,Minimally Processed
+SSH261,Minimally Processed
+SSH262,Minimally Processed
+SSH263,Minimally Processed
+SSH264,Processed Culinary Ingredients
+SSH265,Minimally Processed
+SSH266,Minimally Processed
+SSH267,Minimally Processed
+SSH268,Minimally Processed
+SSH269,Processed
+SSH270,Processed
+SSH271,Minimally Processed
+SSH272,Processed
+SSH273,Minimally Processed
+B274,Ultra Processed
+B275,Minimally Processed
+B276,Minimally Processed
+B277,Minimally Processed
+B278,Ultra Processed
+B279,Minimally Processed
+B280,Minimally Processed
+B281,Processed
+B282,Ultra Processed
+B283,Minimally Processed
+B284,Minimally Processed
+B285,Minimally Processed
+B286,Ultra Processed
+B287,Ultra Processed
+B288,Minimally Processed
+B289,Minimally Processed
+B290,Processed
+B291,Minimally Processed
+B292,Processed
+B293,Minimally Processed
+B294,Ultra Processed
+B295,Ultra Processed
+B296,Processed
+B297,Minimally Processed
+B298,Ultra Processed
+B299,Minimally Processed
+B300,Processed
+B301,Ultra Processed
+B29,Processed
+BI1,Processed
+BI2,Minimally Processed
+BI3,Processed
+BI4,Minimally Processed
+BI5,Processed
+BI6,Processed
+BI7,Ultra Processed
+BI8,Processed
+BI9,Ultra Processed
+BI10,Minimally Processed
+BI11,Ultra Processed
+BI12,Processed
+BI13,Ultra Processed
+BI14,Processed
+BI15,Processed
+FW1,Processed
+FW2,Ultra Processed
+FW3,Processed Culinary Ingredients
+FW4,Ultra Processed
+FW5,Minimally Processed
+FW6,Processed Culinary Ingredients
+AW1,Minimally Processed
+AW2,Processed
+AW3,Minimally Processed
+AW4,Minimally Processed
+AW5,Minimally Processed
+AW6,Processed Culinary Ingredients
+AW7,Processed
+AW8,Processed Culinary Ingredients
+AW9,Minimally Processed
+AW10,Minimally Processed
+AW11,Minimally Processed
+AW12,Ultra Processed
+AW13,Processed
+AW14,Processed
+AW15,Minimally Processed
+P1,Processed
+P2,Minimally Processed
+P3,Ultra Processed
+P4,Minimally Processed
+P5,Processed
+P6,Processed
+P7,Processed
+P8,Processed
+P9,Processed
+P10,Processed
+P11,Processed
+P12,Processed
+CO1,Processed
+CO2,Processed
+CO3,Processed
+CO4,Processed
+CO5,Processed
+CO6,Processed
+CO7,Processed
+CO8,Processed
+CO9,Processed
+CO10,Processed
+CO11,Processed
+CO12,Processed
+CO13,Processed
+CO14,Processed
+CO15,Processed
+CO16,Processed
+CO17,Processed
+CO18,Processed
+CO19,Processed
+CO20,Processed
+CO21,Processed
+Br1,Ultra Processed
+Br2,Processed
+Br3,Processed
+Br4,Ultra Processed
+Br5,Ultra Processed
+Br6,Ultra Processed
+Br7,Processed
+PS1,Minimally Processed
+PS2,Minimally Processed
+PS3,Processed Culinary Ingredients
+PS4,Minimally Processed
+PS5,Processed Culinary Ingredients
+PS6,Processed Culinary Ingredients
+PS7,Minimally Processed
+PS8,Minimally Processed
+PS9,Processed Culinary Ingredients
+PS10,Processed Culinary Ingredients
+PS11,Processed Culinary Ingredients
+FJ1,Processed
+FJ2,Processed Culinary Ingredients
+FJ3,Processed Culinary Ingredients
+FJ4,Processed Culinary Ingredients
+FJ5,Processed Culinary Ingredients
+FJ6,Processed
+FJ7,Processed
+FJ8,Processed
+FJ9,Processed
+FJ10,Minimally Processed
+FJ11,Processed
+FJ12,Minimally Processed
+FJ13,Minimally Processed
+FJ14,Minimally Processed
+FJ15,Processed
+FJ16,Ultra Processed
+FJ17,Processed
+FJ18,Processed
+FJ19,Processed
+FJ20,Ultra Processed
+FJ21,Ultra Processed
+FJ22,Processed
+MSS1,Processed
+MSS2,Ultra Processed
+MSS3,Processed
+MSS4,Processed
+MSS5,Ultra Processed
+MSS6,Minimally Processed
+MSS7,Processed
+MSS8,Minimally Processed
+MSS9,Ultra Processed
+MSS10,Minimally Processed
+MSS11,Minimally Processed
+MSS12,Processed
+MSS13,Processed
+MSS14,Minimally Processed
+MSS15,Processed
+MSS16,Processed
+MSS17,Minimally Processed
+MSS18,Processed
+MSS19,Processed
+Be1,Processed Culinary Ingredients
+Be2,Processed Culinary Ingredients
+Be3,Processed Culinary Ingredients
+Be4,Processed Culinary Ingredients
+Be5,Processed Culinary Ingredients
+Be6,Processed Culinary Ingredients
+Be7,Processed
+Be8,Processed Culinary Ingredients
+Be9,Processed Culinary Ingredients
+Be10,Processed Culinary Ingredients
+Be11,Processed Culinary Ingredients
+Be12,Minimally Processed
+Be13,Minimally Processed
+Pa1,Minimally Processed
+Pa2,Minimally Processed
+Pa3,Minimally Processed
+Pa4,Processed Culinary Ingredients
+Pa5,Minimally Processed
+Pa6,Minimally Processed
+Pa7,Processed Culinary Ingredients
+Pa8,Minimally Processed
+Pa9,Minimally Processed
+Pa10,Processed Culinary Ingredients
+Pa11,Minimally Processed
+Pa12,Minimally Processed
+Pa13,Processed Culinary Ingredients
+SG1,Minimally Processed
+SG2,Ultra Processed
+SG3,Minimally Processed
+SG4,Ultra Processed
+SG5,Ultra Processed
+SG6,Ultra Processed
+SG7,Processed
+SG8,Processed
+SG9,Ultra Processed
+SG10,Minimally Processed
+SG11,Ultra Processed
+SG12,Ultra Processed
+SG13,Processed
+SG14,Minimally Processed
+SG15,Ultra Processed
